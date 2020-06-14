@@ -17,7 +17,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 ## Description
 
-Complete the programs in the `src/` directory in any order.
+Complete the programs in the `src/` directory in any order. d
 
 * `oop/`
     * `oop1.py`: class hierarchies
